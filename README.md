@@ -112,6 +112,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dubby0610&show_icons=true&locale=en&layout=compact" alt="NFTknight" /></p> <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dubby0610&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient" alt="Dubby0610" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dubby0610&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient" alt="Dubby0610" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peterprice&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient" alt="Dubby0610" /></p>
+// <p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peterprice&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient" alt="Dubby0610" /></p>
