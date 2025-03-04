@@ -49,30 +49,30 @@
       <td><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50"/></td>
     </tr>
     <tr width='50' height='50'>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg?raw=true" width="50"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg?raw=true" width="50"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg?raw=true" width="50"></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg?raw=true" width="50"></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/></td>
       <td><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg?raw=true" width="50"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rails.svg?raw=true" width="50"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg?raw=true" width="50"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg?raw=true" width="50"></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg?raw=true" width="50"></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rails.svg?raw=true" width="50"></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg?raw=true" width="50"></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg?raw=true" width="50"></td>
     </tr>
     <tr width='50' height='50'>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg?raw=true" width="50"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg?raw=true" width="50"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/></td>
-    <td><img src="https://www.chartjs.org/media/logo-title.svg" width="50"/></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg?raw=true" width="50"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg?raw=true" width="50"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg?raw=true" width="50"></td>
-    <td><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50"/></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg?raw=true" width="50"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="50"/></td>
-    <td><img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="50"/></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg?raw=true" width="50"></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg?raw=true" width="50"></td>
+      <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/></td>
+      <td><img src="https://www.chartjs.org/media/logo-title.svg" width="50"/></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg?raw=true" width="50"></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg?raw=true" width="50"></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg?raw=true" width="50"></td>
+      <td><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50"/></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg?raw=true" width="50"></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="50"/></td>
+      <td><img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="50"/></td>
     </tr>
 </table>
 
