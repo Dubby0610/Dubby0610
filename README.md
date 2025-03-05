@@ -19,7 +19,7 @@
 
 </p>
 
-<img src="https://img.shields.io/github/issues-pr/Dubby0610/uniswapv3-code" alt="Pull Requests Badge"/><img src="https://img.shields.io/github/issues/Dubby0610/uniswapv3-code" alt="Issues Badge"/><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Dubby0610/uniswapv3-code?color=2b9348"><img src="https://img.shields.io/github/license/Dubby0610/ReactNative-Expo-OAuth?color=2b9348" alt="License Badge"/><img src="https://komarev.com/ghpvc/?username=Dubby0610&label=Profile%20views&color=0e75b6&style=flat" alt="Dubby0610" /><img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Dubby0610.Dubby0610" /><img align="right" src="https://img.shields.io/github/followers/Dubby0610?label=Follow&style=social" />
+<img src="https://img.shields.io/github/issues-pr/Dubby0610/uniswapv3-code" alt="Pull Requests Badge"/><img src="https://img.shields.io/github/issues/Dubby0610/uniswapv3-code" alt="Issues Badge"/><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Dubby0610/uniswapv3-code?color=2b9348"><img src="https://img.shields.io/github/license/Dubby0610/ReactNative-Expo-OAuth?color=2b9348" alt="License Badge"/><img src="https://komarev.com/ghpvc/?username=Dubby0610&label=Profile%20views&color=0e75b6&style=flat" alt="Dubby0610" />
 
 ## My Skills
 
@@ -77,6 +77,8 @@
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="50"></td>
     </tr>
 </table>
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Dubby0610.Dubby0610" /><img align="right" src="https://img.shields.io/github/followers/Dubby0610?label=Follow&style=social" />
 
 <h1 align="center"></h1>
 
