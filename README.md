@@ -19,7 +19,7 @@
 
 </p>
 
-<img src="https://img.shields.io/github/issues-pr/Dubby0610/uniswapv3-code" alt="Dubby0610"/><img src="https://img.shields.io/github/issues/Dubby0610/uniswapv3-code" alt="Dubby0610"/><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Dubby0610/uniswapv3-code?color=2b9348" alt ="Dubby0610"><img src="https://img.shields.io/github/license/Dubby0610/ReactNative-Expo-OAuth?color=2b9348" alt="Dubby0610"/>
+<img src="https://img.shields.io/github/issues-pr/Dubby0610/uniswapv3-code" alt="Dubby0610"/> <img src="https://img.shields.io/github/issues/Dubby0610/uniswapv3-code" alt="Dubby0610"/> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Dubby0610/uniswapv3-code?color=2b9348" alt ="Dubby0610"> <img src="https://img.shields.io/github/license/Dubby0610/ReactNative-Expo-OAuth?color=2b9348" alt="Dubby0610"/>
 
 ## My Skills
 
