@@ -2,9 +2,10 @@
 <p align="center">
   <h3 align="center">Highly Skilled Full Stack & AI Engineer </h3>
 
-<br clear="both">
-![github contribution grid snake animation](https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/snake.svg#gh-light-mode-only)
+  <br clear="both">
+  
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/snake-dark.svg#gh-dark-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/snake.svg#gh-light-mode-only)
 
 - 😎 Interested in contributing expertise in web, mobile, unity and blockchain development
 
