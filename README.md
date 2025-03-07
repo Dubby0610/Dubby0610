@@ -6,15 +6,15 @@
   ![github contribution grid snake animation](https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/snake-dark.svg#gh-dark-mode-only)
   ![github contribution grid snake animation](https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/snake.svg#gh-light-mode-only)
 
-  ### 🤖 AI by day, debugger by night – Turning coffee into code and dreams into deployable models.
+### 🤖 AI by day, debugger by night – Turning coffee into code and dreams into deployable models.
   
-  ### 👨‍💻 Full-stack developer with a side of AI magic – Because why settle for just one stack when you can have them all?
+### 👨‍💻 Full-stack developer with a side of AI magic – Because why settle for just one stack when you can have them all?
   
-  ### 🚀 Building the future, one neural network at a time – Warning: May occasionally talk to chatbots for fun.
+### 🚀 Building the future, one neural network at a time – Warning: May occasionally talk to chatbots for fun.
   
-  ### 📚 When I’m not coding, I’m probably reading about how to code better – Or binge-watching tech talks on 2x speed.
+### 📚 When I’m not coding, I’m probably reading about how to code better – Or binge-watching tech talks on 2x speed.
   
-  ### ⚡ Fun fact: My AI models have better decision-making skills than I do.
+### ⚡ Fun fact: My AI models have better decision-making skills than I do.
 
 </p>
 
