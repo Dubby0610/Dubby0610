@@ -3,7 +3,6 @@
   <h3 align="center">Highly Skilled Full Stack & AI Engineer </h3>
 
 <br clear="both">
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/snake.svg#gh-light-mode-only)
 
@@ -18,8 +17,6 @@
 - ⚡ Quotes: _What you do today can improve all of your tomorrows._
 
 </p>
-
-<img src="https://img.shields.io/github/issues-pr/Dubby0610/uniswapv3-code" alt="Dubby0610"/> <img src="https://img.shields.io/github/issues/Dubby0610/uniswapv3-code" alt="Dubby0610"/> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Dubby0610/uniswapv3-code?color=2b9348" alt ="Dubby0610"> <img src="https://img.shields.io/github/license/Dubby0610/ReactNative-Expo-OAuth?color=2b9348" alt="Dubby0610"/>
 
 ## My Skills
 
