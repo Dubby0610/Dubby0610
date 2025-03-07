@@ -14,8 +14,7 @@
   
   ### 📚 When I’m not coding, I’m probably reading about how to code better – Or binge-watching tech talks on 2x speed.
   
-  ### ⚡ Fun fact:
-      My AI models have better decision-making skills than I do.
+  ### ⚡ Fun fact: My AI models have better decision-making skills than I do.
 
 </p>
 
