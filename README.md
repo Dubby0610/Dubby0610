@@ -4,15 +4,8 @@
 
 <br clear="both">
 
-My Contribution Graph
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/StarDev913/StarDev913/output/snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/StarDev913/StarDev913/output/snake.svg#gh-light-mode-only)
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/snake.svg#gh-light-mode-only)
-
-###
 
 - 😎 Interested in contributing expertise in web, mobile, unity and blockchain development
 
