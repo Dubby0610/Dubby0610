@@ -84,17 +84,15 @@
 <div>
   <img align="right" alt="GIF" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966?raw=true" width="400" />
 
-### 🧠 AI Wizardry: From training neural networks to deploying ML models, I make machines smarter (and occasionally sassier).
+### 🤖 Build AI models that actually work (most of the time).
 
-### 🌐 Full-Stack Sorcery: Whether it’s crafting sleek frontends or building robust backends, I’ve got the full stack covered.
+### 🌐 Develop full-stack – frontend, backend, and everything in between.
 
-### 🤖 Automate All the Things: If it can be automated, I’ll automate it. Your to-do list doesn’t stand a chance.
+### 🚀 Automate stuff so you don’t have to.
 
-### 📊 Data Alchemy: Turning raw data into golden insights – because numbers should tell stories too.
+### 📊 Turn data into insights – because numbers are cool.
 
-### 🚀 Future Builder: I’m here to build the future, one line of code (and one AI model) at a time.
-  
-  <br />
+### 💡 Solve problems with code, creativity, and a lot of coffee.
 
 </div>
 
