@@ -9,8 +9,8 @@ My Contribution Graph
 ![github contribution grid snake animation](https://raw.githubusercontent.com/StarDev913/StarDev913/output/snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/StarDev913/StarDev913/output/snake.svg#gh-light-mode-only)
 
-<img src="https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
-<img src="https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/snake.svg#gh-light-mode-only" alt="Snake animation" />
+![github contribution grid snake animation](<img src="https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />)
+![github contribution grid snake animation](<img src="https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/snake.svg#gh-light-mode-only" alt="Snake animation" />)
 
 ###
 
