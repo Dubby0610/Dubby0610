@@ -1,20 +1,20 @@
-<h1 align="center" dir="auto"> Full Stack AI Engineer </h1>
+<h1 align="center" dir="auto"> Hey there, I'm Dubby! 👋 </h1>
 <p align="center">
-  <h3 align="center">Highly Skilled Full Stack & AI Engineer </h3>
+  <h3 align="center">A full-stack AI developer who loves turning coffee ☕ into code 💻 and dreams into reality. </h3>
   <br clear="both">
   
   ![github contribution grid snake animation](https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/snake-dark.svg#gh-dark-mode-only)
   ![github contribution grid snake animation](https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/snake.svg#gh-light-mode-only)
 
-- 😎 Interested in contributing expertise in web, mobile, unity and blockchain development
-
-- 👯 I hope someday collaborate with on **Innovative Projects**
-
-- 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies.
-
-- 📚 Love reading books on personal development & financial literacy.
-
-- ⚡ Quotes: _What you do today can improve all of your tomorrows._
+  -🤖 AI by day, debugger by night – Turning coffee into code and dreams into deployable models.
+  
+  -👨‍💻 Full-stack developer with a side of AI magic – Because why settle for just one stack when you can have them all?
+  
+  -🚀 Building the future, one neural network at a time – Warning: May occasionally talk to chatbots for fun.
+  
+  -📚 When I’m not coding, I’m probably reading about how to code better – Or binge-watching tech talks on 2x speed.
+  
+  -⚡ Fun fact: My AI models have better decision-making skills than I do.
 
 </p>
 
