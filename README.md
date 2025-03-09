@@ -23,68 +23,68 @@
 ### **Frontend Skills**
 <table>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=react" alt="React" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=sass" alt="SASS" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" title="HTML5 - Markup language for structuring web content"></td>
+      <td><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" title="CSS3 - Styling language for designing web pages"></td>
+      <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" title="JavaScript - Programming language for interactive web development"></td>
+      <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" title="TypeScript - Typed superset of JavaScript"></td>
+      <td><img src="https://skillicons.dev/icons?i=react" alt="React" width="50" title="React - JavaScript library for building user interfaces"></td>
+      <td><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="50" title="Vue.js - Progressive JavaScript framework"></td>
+      <td><img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="50" title="Angular - Platform for building web applications"></td>
+      <td><img src="https://skillicons.dev/icons?i=sass" alt="SASS" width="50" title="SASS - CSS preprocessor for better styling"></td>
+      <td><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" title="Tailwind CSS - Utility-first CSS framework"></td>
+      <td><img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" title="Redux - State management library for JavaScript apps"></td>
+      <td><img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" width="50" title="Webpack - Module bundler for JavaScript"></td>
     </tr>
 </table>
 
 ### **Backend Skills**
 <table>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=python" alt="Python" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=django" alt="Django" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=java" alt="Java" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" title="Node.js - JavaScript runtime for server-side development"></td>
+      <td><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" title="Express.js - Web framework for Node.js"></td>
+      <td><img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" title="Python - Versatile programming language"></td>
+      <td><img src="https://skillicons.dev/icons?i=django" alt="Django" width="50" title="Django - High-level Python web framework"></td>
+      <td><img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" title="Flask - Lightweight Python web framework"></td>
+      <td><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="50" title="Ruby - Dynamic, object-oriented programming language"></td>
+      <td><img src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails" width="50" title="Ruby on Rails - Web application framework"></td>
+      <td><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" title="PHP - Server-side scripting language"></td>
+      <td><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="50" title="Laravel - PHP web framework"></td>
+      <td><img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" title="Java - Object-oriented programming language"></td>
+      <td><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="50" title="Spring Boot - Java framework for building web apps"></td>
     </tr>
 </table>
 
 ### **Databases & DevOps**
 <table>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=git" alt="Git" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" title="MySQL - Relational database management system"></td>
+      <td><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" title="PostgreSQL - Advanced open-source relational database"></td>
+      <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" title="MongoDB - NoSQL document-oriented database"></td>
+      <td><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="50" title="Redis - In-memory data structure store"></td>
+      <td><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" title="Docker - Containerization platform"></td>
+      <td><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50" title="Kubernetes - Container orchestration platform"></td>
+      <td><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" title="AWS - Cloud computing platform"></td>
+      <td><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="50" title="Google Cloud - Cloud computing services"></td>
+      <td><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" title="Azure - Microsoft's cloud computing platform"></td>
+      <td><img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" title="Git - Version control system"></td>
+      <td><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" title="GitHub - Platform for version control and collaboration"></td>
     </tr>
 </table>
 
 ### **AI & Other Tools**
 <table>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=blockchain" alt="Blockchain" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" title="TensorFlow - Machine learning framework"></td>
+      <td><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" title="PyTorch - Machine learning library"></td>
+      <td><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" title="Figma - Design and prototyping tool"></td>
+      <td><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" title="Postman - API development and testing tool"></td>
+      <td><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="50" title="GraphQL - Query language for APIs"></td>
+      <td><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" title="Firebase - Backend-as-a-Service platform"></td>
+      <td><img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="50" title="Solidity - Programming language for smart contracts"></td>
+      <td><img src="https://skillicons.dev/icons?i=blockchain" alt="Blockchain" width="50" title="Blockchain - Decentralized ledger technology"></td>
+      <td><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" title="Linux - Open-source operating system"></td>
+      <td><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" title="Bash - Unix shell and command language"></td>
+      <td><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" title="VS Code - Code editor by Microsoft"></td>
     </tr>
 </table>
 
