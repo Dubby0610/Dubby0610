@@ -88,7 +88,7 @@
     </tr>
 </table>
 
-<img src="https://komarev.com/ghpvc/?username=Dubby0610&label=Profile%20views&color=0e75b6&style=flat" alt="Dubby0610" /><img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Dubby0610.Dubby0610" /><img align="right" src="https://img.shields.io/github/followers/Dubby0610?label=Follow&style=social" />
+<img src="https://komarev.com/ghpvc/?username=Dubby0610&label=Profile%20views&color=0e75b6&style=flat" alt="Dubby0610" /><img src="https://visitor-badge.laobi.icu/badge?page_id=Dubby0610.Dubby0610" /><img align="right" src="https://img.shields.io/github/followers/Dubby0610?label=Follow&style=social" />
 
 <h1 align="center"></h1>
 
