@@ -12,9 +12,13 @@
   
 #### 🚀 Building the future, one neural network at a time – Warning: May occasionally talk to chatbots for fun.
   
-#### 📚 When I’m not coding, I’m probably reading about how to code better – Or binge-watching tech talks on 2x speed.
+#### 📚 When I'm not coding, I'm probably reading about how to code better – Or binge-watching tech talks on 2x speed.
   
 #### ⚡ Fun fact: My AI models have better decision-making skills than I do.
+
+#### 🎮 WebGL wizard - Creating immersive 3D experiences that make browsers sweat.
+
+#### ✨ Three.js enthusiast - Because flat UIs are so 2010.
 
 </p>
 
@@ -31,9 +35,9 @@
       <td><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="50" title="Vue.js - Progressive JavaScript framework"></td>
       <td><img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="50" title="Angular - Platform for building web applications"></td>
       <td><img src="https://skillicons.dev/icons?i=sass" alt="SASS" width="50" title="SASS - CSS preprocessor for better styling"></td>
-      <td><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" title="Tailwind CSS - Utility-first CSS framework"></td>
+      <td><img src="https://raw.githubusercontent.com/mrdoob/three.js/dev/files/icon.svg" alt="Three.js" width="50" title="Three.js - JavaScript 3D library"></td>
+      <td><img src="https://raw.githubusercontent.com/KhronosGroup/WebGL/master/WebGL_Logo.svg" alt="WebGL" width="50" title="WebGL - JavaScript API for rendering 3D graphics"></td>
       <td><img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" title="Redux - State management library for JavaScript apps"></td>
-      <td><img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" width="50" title="Webpack - Module bundler for JavaScript"></td>
     </tr>
 </table>
 
@@ -53,6 +57,14 @@
       <td><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="50" title="Spring Boot - Java framework for building web apps"></td>
     </tr>
 </table>
+
+### **3D & Graphics Expertise**
+- 🖥️ **Three.js**: Building interactive 3D experiences that push browser limits
+- 🎨 **WebGL**: Low-level 3D graphics programming for maximum performance
+- 🌐 **Shader Programming**: GLSL wizardry for stunning visual effects
+- 🏗️ **3D Model Integration**: Bringing Blender/Maya creations to the web
+- 🕶️ **VR/AR**: Web-based immersive experiences with WebXR
+- ⚡ **Performance Optimization**: Making 3D run smoothly on any device
 
 ### **Databases & DevOps**
 <table>
@@ -77,12 +89,12 @@
       <td><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" title="TensorFlow - Machine learning framework"></td>
       <td><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" title="PyTorch - Machine learning library"></td>
       <td><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" title="Figma - Design and prototyping tool"></td>
-      <td><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" title="Postman - API development and testing tool"></td>
+      <td><img src="https://raw.githubusercontent.com/blender/blender/master/doc/blender_logo.svg" alt="Blender" width="50" title="Blender - 3D modeling and animation"></td>
       <td><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="50" title="GraphQL - Query language for APIs"></td>
       <td><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" title="Firebase - Backend-as-a-Service platform"></td>
       <td><img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="50" title="Solidity - Programming language for smart contracts"></td>
       <td><img src="https://skillicons.dev/icons?i=blockchain" alt="Blockchain" width="50" title="Blockchain - Decentralized ledger technology"></td>
-      <td><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" title="Linux - Open-source operating system"></td>
+      <td><img src="https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/logo/logo.svg" alt="BabylonJS" width="50" title="BabylonJS - Powerful 3D engine"></td>
       <td><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" title="Bash - Unix shell and command language"></td>
       <td><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" title="VS Code - Code editor by Microsoft"></td>
     </tr>
@@ -100,13 +112,30 @@
 
 #### 🌐 Develop full-stack – frontend, backend, and everything in between.
 
-#### 🚀 Automate stuff so you don’t have to.
+#### 🚀 Automate stuff so you don't have to.
 
 #### 📊 Turn data into insights – because numbers are cool.
 
 #### 💡 Solve problems with code, creativity, and a lot of coffee.
 
+#### 🎨 Create stunning 3D visualizations that make data come alive.
+
+#### 🕶️ Build WebXR experiences that blur the line between virtual and real.
+
+#### ⚡ Optimize WebGL pipelines for buttery-smooth 60fps rendering.
+
 </div>
+
+## Recent 3D Projects
+
+### 🌌 [Galaxy Explorer](https://github.com/Dubby0610/galaxy-explorer)
+Interactive 3D galaxy visualization using Three.js and custom shaders
+
+### 🏙️ [Procedural City Generator](https://github.com/Dubby0610/procedural-city)
+WebGL-powered infinite city generation with customizable parameters
+
+### � [AI Particle System](https://github.com/Dubby0610/ai-particles)
+Neural network-driven particle animations with Three.js and TensorFlow.js
 
 <h3 align="left">Support:</h3>
 <br>
