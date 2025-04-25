@@ -23,6 +23,7 @@
 
 ## My Skills
 
+
 ### **Frontend Skills**
 <table>
     <tr>
@@ -31,7 +32,7 @@
       <td><img src="https://skillicons.dev/icons?i=sass" alt="SASS" width="50" title="SASS - CSS preprocessor for better styling"></td>
       <td><img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="50" title="Angular - Platform for building web applications"></td>
       <td><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="50" title="Three.js – JavaScript 3D library"></td>
-      <td><img src="https://raw.githubusercontent.com/antharuu/webgl-icon/main/webgl-icon.png" alt="WebGL" width="50" title="WebGL – Web Graphics Library for rendering 2D/3D graphics"></td>
+      <td><img src="https://cdn.simpleicons.org/webgl/990000" alt="WebGL" width="50" title="WebGL – Web Graphics Library for rendering 2D/3D graphics"></td>
       <td><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" title="HTML5 - Markup language for structuring web content"></td>
       <td><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" title="CSS3 - Styling language for designing web pages"></td>
       <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" title="JavaScript - Programming language for interactive web development"></td>
