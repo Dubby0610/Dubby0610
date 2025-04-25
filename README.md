@@ -1,20 +1,22 @@
 
 <h1 align="center" dir="auto"> Hey there, I'm Dubby! 👋 </h1>
 <p align="center">
-  <h3 align="center">A full-stack AI developer who loves turning coffee ☕ into code 💻 and dreams into reality. </h3>
+  <h3 align="center">Full-stack + AI dev who turns coffee ☕ into code 💻 and ideas into interactive 3D reality. </h3>
   <br clear="both">
   
   ![github contribution grid snake animation](https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/snake-dark.svg#gh-dark-mode-only)
   ![github contribution grid snake animation](https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/snake.svg#gh-light-mode-only)
 
 #### 🤖 AI by day, debugger by night – Turning coffee into code and dreams into deployable models.
-  
+
 #### 👨‍💻 Full-stack developer with a side of AI magic – Because why settle for just one stack when you can have them all?
-  
+
+#### 🌐 Bending pixels with WebGL and Three.js – If it spins, glows, or looks 3D, I probably built it.
+
 #### 🚀 Building the future, one neural network at a time – Warning: May occasionally talk to chatbots for fun.
-  
+
 #### 📚 When I’m not coding, I’m probably reading about how to code better – Or binge-watching tech talks on 2x speed.
-  
+
 #### ⚡ Fun fact: My AI models have better decision-making skills than I do.
 
 </p>
@@ -24,17 +26,17 @@
 ### **Frontend Skills**
 <table>
     <tr>
+      <td><img src="https://skillicons.dev/icons?i=react" alt="React" width="50" title="React - JavaScript library for building user interfaces"></td>
+      <td><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" title="Tailwind CSS - Utility-first CSS framework"></td>
+      <td><img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="50" title="Angular - Platform for building web applications"></td>
+      <td><img src="https://skillicons.dev/icons?i=three" alt="Three.js" width="50" title="Three.js"></td>
       <td><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" title="HTML5 - Markup language for structuring web content"></td>
       <td><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" title="CSS3 - Styling language for designing web pages"></td>
       <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" title="JavaScript - Programming language for interactive web development"></td>
       <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" title="TypeScript - Typed superset of JavaScript"></td>
-      <td><img src="https://skillicons.dev/icons?i=react" alt="React" width="50" title="React - JavaScript library for building user interfaces"></td>
       <td><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="50" title="Vue.js - Progressive JavaScript framework"></td>
-      <td><img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="50" title="Angular - Platform for building web applications"></td>
       <td><img src="https://skillicons.dev/icons?i=sass" alt="SASS" width="50" title="SASS - CSS preprocessor for better styling"></td>
-      <td><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" title="Tailwind CSS - Utility-first CSS framework"></td>
       <td><img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" title="Redux - State management library for JavaScript apps"></td>
-      <td><img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" width="50" title="Webpack - Module bundler for JavaScript"></td>
     </tr>
 </table>
 
@@ -97,15 +99,15 @@
 
 <div>
 
-#### 🤖 Build AI models that actually work (most of the time).
+#### 🤖 Build AI that actually works – most of the time.
 
-#### 🌐 Develop full-stack – frontend, backend, and everything in between.
+#### 🌐 Full-stack dev from frontend polish to backend logic (and everything in between).
 
-#### 🚀 Automate stuff so you don’t have to.
+#### 🚀 Automate the boring stuff, so you don’t have to.
 
-#### 📊 Turn data into insights – because numbers are cool.
+#### 📊 Turn data into decisions – because raw numbers don’t tell the whole story.
 
-#### 💡 Solve problems with code, creativity, and a lot of coffee.
+#### 💡 Solve problems with code, creativity, and just the right amount of caffeine.
 
 </div>
 
