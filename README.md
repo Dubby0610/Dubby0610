@@ -30,8 +30,8 @@
       <td><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" title="Tailwind CSS - Utility-first CSS framework"></td>
       <td><img src="https://skillicons.dev/icons?i=sass" alt="SASS" width="50" title="SASS - CSS preprocessor for better styling"></td>
       <td><img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="50" title="Angular - Platform for building web applications"></td>
-      <td><img src="https://threejs.org/files/favicon_white.ico" alt="Three.js" width="50" title="Three.js – JavaScript 3D library"></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WebGL_Logo.svg/512px-WebGL_Logo.svg.png" alt="WebGL" width="50" title="WebGL – Web Graphics Library for rendering 2D/3D graphics"></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="50" title="Three.js – JavaScript 3D library"></td>
+      <td><img src="https://raw.githubusercontent.com/antharuu/webgl-icon/main/webgl-icon.png" alt="WebGL" width="50" title="WebGL – Web Graphics Library for rendering 2D/3D graphics"></td>
       <td><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" title="HTML5 - Markup language for structuring web content"></td>
       <td><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" title="CSS3 - Styling language for designing web pages"></td>
       <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" title="JavaScript - Programming language for interactive web development"></td>
