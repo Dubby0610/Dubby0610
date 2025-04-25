@@ -28,15 +28,15 @@
     <tr>
       <td><img src="https://skillicons.dev/icons?i=react" alt="React" width="50" title="React - JavaScript library for building user interfaces"></td>
       <td><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" title="Tailwind CSS - Utility-first CSS framework"></td>
+      <td><img src="https://skillicons.dev/icons?i=sass" alt="SASS" width="50" title="SASS - CSS preprocessor for better styling"></td>
       <td><img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="50" title="Angular - Platform for building web applications"></td>
-      <td><img src="https://skillicons.dev/icons?i=three" alt="Three.js" width="50" title="Three.js"></td>
+      <td><img src="https://raw.githubusercontent.com/mrdoob/three.js/dev/files/icon.png" alt="Three.js" width="50" title="Three.js – JavaScript 3D library"></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/WebGL_Logo.svg" alt="WebGL" width="50" title="WebGL – Web Graphics Library for rendering 2D/3D graphics"></td>
       <td><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" title="HTML5 - Markup language for structuring web content"></td>
       <td><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" title="CSS3 - Styling language for designing web pages"></td>
       <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" title="JavaScript - Programming language for interactive web development"></td>
       <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" title="TypeScript - Typed superset of JavaScript"></td>
       <td><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="50" title="Vue.js - Progressive JavaScript framework"></td>
-      <td><img src="https://skillicons.dev/icons?i=sass" alt="SASS" width="50" title="SASS - CSS preprocessor for better styling"></td>
-      <td><img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" title="Redux - State management library for JavaScript apps"></td>
     </tr>
 </table>
 
