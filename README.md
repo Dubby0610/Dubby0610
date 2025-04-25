@@ -1,7 +1,7 @@
 
 <h1 align="center" dir="auto"> Hey there, I'm Dubby! 👋 </h1>
 <p align="center">
-  <h3 align="center">Full-stack + AI dev who turns coffee ☕ into code 💻 and ideas into interactive 3D reality. </h3>
+  <h3 align="center">Full-stack + AI dev who turns coffee ☕ into code 💻 and ideas into <h2>interactive 3D</h2>h2> reality. </h3>
   <br clear="both">
   
   ![github contribution grid snake animation](https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/snake-dark.svg#gh-dark-mode-only)
